@@ -21,7 +21,7 @@ p {
 }
 
 p:hover {
-  cursor: move;
+  cursor: pointer;
 }
 
 p {
